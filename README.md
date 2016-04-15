@@ -1,5 +1,7 @@
 # cash-register-filter
 
+[ ![Codeship Status for cdaringe/cash-register-filter](https://codeship.com/projects/4877c0b0-e4f7-0133-9457-6a2823a81008/status?branch=master)](https://codeship.com/projects/146484)
+
 accepts a cash-value-like input and returns it in #.## format
 
 # usage
