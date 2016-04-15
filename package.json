@@ -1,0 +1,14 @@
+{
+  "name": "cash-register-filter",
+  "version": "1.0.0",
+  "description": "accepts a cash-value-like input and returns it in #.## format",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node test/"
+  },
+  "author": "cdaringe",
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^4.5.1"
+  }
+}
