@@ -1,6 +1,6 @@
 {
   "name": "cash-register-filter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "accepts a cash-value-like input and returns it in #.## format",
   "main": "src/index.js",
   "scripts": {
